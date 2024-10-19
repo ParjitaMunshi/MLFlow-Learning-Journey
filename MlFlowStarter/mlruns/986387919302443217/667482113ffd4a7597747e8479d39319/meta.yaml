@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/986387919302443217/667482113ffd4a7597747e8479d39319/artifacts
+end_time: 1729297158768
+entry_point_name: ''
+experiment_id: '986387919302443217'
+lifecycle_stage: active
+run_id: 667482113ffd4a7597747e8479d39319
+run_name: kindly-mouse-278
+run_uuid: 667482113ffd4a7597747e8479d39319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729297158368
+status: 3
+tags: []
+user_id: parjita

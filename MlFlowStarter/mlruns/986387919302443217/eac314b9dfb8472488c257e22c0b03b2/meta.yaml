@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/986387919302443217/eac314b9dfb8472488c257e22c0b03b2/artifacts
+end_time: 1729292384621
+entry_point_name: ''
+experiment_id: '986387919302443217'
+lifecycle_stage: active
+run_id: eac314b9dfb8472488c257e22c0b03b2
+run_name: skillful-vole-665
+run_uuid: eac314b9dfb8472488c257e22c0b03b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729292384424
+status: 3
+tags: []
+user_id: parjita

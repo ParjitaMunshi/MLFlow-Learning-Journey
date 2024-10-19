@@ -1,0 +1,13 @@
+prefix=E:/mlflow/MlFlowStarter/venv/Library
+exec_prefix=E:/mlflow/MlFlowStarter/venv/Library
+libdir=E:/mlflow/MlFlowStarter/venv/Library/lib
+sharedlibdir=E:/mlflow/MlFlowStarter/venv/Library/lib
+includedir=E:/mlflow/MlFlowStarter/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
