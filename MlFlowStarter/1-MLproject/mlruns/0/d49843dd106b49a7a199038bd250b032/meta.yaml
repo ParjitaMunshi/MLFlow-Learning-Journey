@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d49843dd106b49a7a199038bd250b032/artifacts
+end_time: 1729571368057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d49843dd106b49a7a199038bd250b032
+run_name: sincere-sponge-947
+run_uuid: d49843dd106b49a7a199038bd250b032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729571367855
+status: 4
+tags: []
+user_id: parjita
