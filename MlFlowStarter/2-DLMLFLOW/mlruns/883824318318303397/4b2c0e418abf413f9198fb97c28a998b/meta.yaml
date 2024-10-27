@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLFlow-Learning-Journey/MlFlowStarter/2-DLMLFLOW/mlruns/883824318318303397/4b2c0e418abf413f9198fb97c28a998b/artifacts
+end_time: 1729993436578
+entry_point_name: ''
+experiment_id: '883824318318303397'
+lifecycle_stage: active
+run_id: 4b2c0e418abf413f9198fb97c28a998b
+run_name: defiant-lamb-706
+run_uuid: 4b2c0e418abf413f9198fb97c28a998b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729993262986
+status: 3
+tags: []
+user_id: parjita

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLFlow-Learning-Journey/MlFlowStarter/2-DLMLFLOW/mlruns/883824318318303397/d5083e948cfd4bfe8ab2088f99b6bbe2/artifacts
+end_time: 1729992471265
+entry_point_name: ''
+experiment_id: '883824318318303397'
+lifecycle_stage: active
+run_id: d5083e948cfd4bfe8ab2088f99b6bbe2
+run_name: unruly-eel-413
+run_uuid: d5083e948cfd4bfe8ab2088f99b6bbe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729992471112
+status: 4
+tags: []
+user_id: parjita

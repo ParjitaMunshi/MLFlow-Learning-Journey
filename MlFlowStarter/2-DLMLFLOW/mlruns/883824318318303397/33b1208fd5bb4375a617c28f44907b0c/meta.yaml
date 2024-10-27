@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLFlow-Learning-Journey/MlFlowStarter/2-DLMLFLOW/mlruns/883824318318303397/33b1208fd5bb4375a617c28f44907b0c/artifacts
+end_time: 1729993413273
+entry_point_name: ''
+experiment_id: '883824318318303397'
+lifecycle_stage: active
+run_id: 33b1208fd5bb4375a617c28f44907b0c
+run_name: adorable-worm-863
+run_uuid: 33b1208fd5bb4375a617c28f44907b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729993391081
+status: 3
+tags: []
+user_id: parjita

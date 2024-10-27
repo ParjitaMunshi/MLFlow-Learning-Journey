@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLFlow-Learning-Journey/MlFlowStarter/2-DLMLFLOW/mlruns/883824318318303397/29388196c5e64f16b50744ad16d47d5b/artifacts
+end_time: 1729992699376
+entry_point_name: ''
+experiment_id: '883824318318303397'
+lifecycle_stage: active
+run_id: 29388196c5e64f16b50744ad16d47d5b
+run_name: bedecked-stag-890
+run_uuid: 29388196c5e64f16b50744ad16d47d5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729992699258
+status: 4
+tags: []
+user_id: parjita

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729993687564
+current_stage: None
+description: ''
+last_updated_timestamp: 1729993687564
+name: final-model
+run_id: 4b2c0e418abf413f9198fb97c28a998b
+run_link: ''
+source: file:///e:/MLFlow-Learning-Journey/MlFlowStarter/2-DLMLFLOW/mlruns/883824318318303397/4b2c0e418abf413f9198fb97c28a998b/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///e:/MLFlow-Learning-Journey/MlFlowStarter/2-DLMLFLOW/mlruns/883824318318303397/4b2c0e418abf413f9198fb97c28a998b/artifacts/model
+user_id: null
+version: 1

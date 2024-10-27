@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLFlow-Learning-Journey/MlFlowStarter/2-DLMLFLOW/mlruns/883824318318303397/56a37edc49e54636bc7a611354588795/artifacts
+end_time: 1729993105531
+entry_point_name: ''
+experiment_id: '883824318318303397'
+lifecycle_stage: active
+run_id: 56a37edc49e54636bc7a611354588795
+run_name: gregarious-slug-256
+run_uuid: 56a37edc49e54636bc7a611354588795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729993090133
+status: 3
+tags: []
+user_id: parjita

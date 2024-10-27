@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLFlow-Learning-Journey/MlFlowStarter/2-DLMLFLOW/mlruns/883824318318303397/353c08b84344467f8621bcba67ae3e61/artifacts
+end_time: 1729993376138
+entry_point_name: ''
+experiment_id: '883824318318303397'
+lifecycle_stage: active
+run_id: 353c08b84344467f8621bcba67ae3e61
+run_name: polite-dog-789
+run_uuid: 353c08b84344467f8621bcba67ae3e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729993337095
+status: 3
+tags: []
+user_id: parjita
