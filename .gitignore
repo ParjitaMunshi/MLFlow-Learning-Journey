@@ -29,3 +29,7 @@ models/
 *.keras
 *.model
 *.pkl
+
+!MlFlowStarter/venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd
+!MlFlowStarter/venv/Lib/site-packages/clang/native/libclang.dll
+!MlFlowStarter/1-MLproject/mlartifacts/0/c68c0ba6eaf742398fbd433e1357d5e9/artifacts/model/model.pkl
